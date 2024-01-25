@@ -4,5 +4,5 @@ An introduction to DevOps with Unix including terminology, processes, and techni
 
 ## About Alexandria Burchfiel,  
 
- Hi! My name is Alexandria Burchfiel, and I am a 17 year old junior purseing a bachelor's in Computer Science with a concentration in cybersecurity. I like to spend my free time with my cat, Mr. Man, and playing video games. I'm looking forward to this class this semester! 
+ Hi! My name is Alexandria Burchfiel, and I am a 17 year old junior pursuing a bachelor's in Computer Science with a concentration in cybersecurity. I like to spend my free time with my cat, Mr. Man, and playing video games. I'm looking forward to this class this semester! 
 
